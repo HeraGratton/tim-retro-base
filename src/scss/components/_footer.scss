@@ -1,0 +1,18 @@
+.footer-principal {
+    background-color: var(--couleur-noir);
+    min-height: 144px;
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+
+.copyright {
+    color: var(--couleur-blanc);
+    a {
+        color: var(--couleur-blanc);
+        text-decoration: none;
+    }
+}
+.copyright a:hover {
+    color: var(--couleur-primaire);
+}

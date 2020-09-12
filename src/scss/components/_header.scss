@@ -1,0 +1,15 @@
+.header-principal {
+    width: 100%;
+    background-color: var(--couleur-noir);
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 666;
+
+    .conteneur{
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+        height: 73px;
+    }
+}

@@ -1,0 +1,14 @@
+.content {
+    font-size: 24px;
+    margin: 0;
+
+    a {
+        color: var(--couleur-blanc);
+        text-decoration: none;
+    }
+
+    a:hover {
+        color: var(--couleur-primaire);
+        text-decoration: underline;
+    }
+}

@@ -1,0 +1,17 @@
+.interet {
+    background-image: url("../images/bg-interet.jpg");
+    background-attachment: fixed;
+    background-size: 100%;
+    padding: 66px 150px 82px;
+    text-align: center;
+    min-height: 1100px;
+
+    .conteneur .cartes{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        gap: 2rem;
+    }
+}

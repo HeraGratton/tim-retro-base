@@ -1,0 +1,11 @@
+.citation {
+    background-image: url("../images/bg-citation.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    min-height: 404px;
+    color: var(--couleur-blanc);
+    display: flex;
+    align-items: center;
+    padding: var(--padding-principal);
+}
